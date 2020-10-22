@@ -1,0 +1,10 @@
+
+        Function: test
+        Body:
+            Var: x = 1;
+            Do
+                a[1][2] = 1;
+                Continue;
+            While !x EndDo.
+        EndBody.
+        

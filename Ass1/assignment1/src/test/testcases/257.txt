@@ -1,0 +1,7 @@
+
+            Function: test
+            Body:
+                For (i = 0, True, False) Do
+                EndFor.
+            EndBody.
+            

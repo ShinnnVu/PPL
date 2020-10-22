@@ -1,0 +1,10 @@
+
+            Function: test
+            Parameter: n
+            Body:
+                Var: i = 0;
+                While 1 Do
+                    If (i == 10) Then
+            EndBody.
+                EndWhile.
+            

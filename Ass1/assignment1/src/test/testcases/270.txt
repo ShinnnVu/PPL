@@ -1,0 +1,12 @@
+
+            Function: test **1 + 2 + ... n < max**
+            Parameter: max
+            Body:
+                Var: n = 0, s = 0;
+                Do
+                    n = n + 1;
+                    s = s + n;
+                While (s + n + 1 < max) EndDo.
+                writeln(n);
+            EndBody.
+            

@@ -1,0 +1,9 @@
+
+            Function: test
+            Body:
+                Var: arr[2] = {2,4}, x = 4.5, y = 5.;
+                If arr[1] >. x Then arr[1] = y;
+                ElseIf Return 2;
+                EndIf
+            EndBody.
+            

@@ -1,0 +1,10 @@
+
+        Function: test
+        Body:
+            For (i = 1, i < 100, 1) Do
+                If (i%2 !=0) Then Continue
+                EndIf.
+                writeln(i);
+            EndFor.
+        EndBody.
+        

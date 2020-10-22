@@ -1,0 +1,9 @@
+
+            Var: x, y = 5e3, z;
+            Function: test____
+            Parameter: x[1],a[2]
+            Body:
+                z = (x\x\x\x\x\x\x\x\x\x) * (True || False) * (2.*.y + test___(2)- test());
+                x = x -. 20.5;
+            EndBody.
+            

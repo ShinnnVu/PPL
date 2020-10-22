@@ -1,0 +1,6 @@
+Body:
+                                                    Var: r = 10., v;
+                                                    goo ();
+                                                    str ="String \b \t \n " ** This is a comment **
+                                                    EndBody.
+                                                    

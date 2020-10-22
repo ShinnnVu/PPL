@@ -1,0 +1,8 @@
+
+            Function: test
+            Body:
+                Var: x = 0;
+                While  Do
+                EndWhile.
+            EndBody.
+            

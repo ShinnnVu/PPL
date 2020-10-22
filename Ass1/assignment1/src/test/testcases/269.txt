@@ -1,0 +1,10 @@
+
+            Function: test
+            Body:
+                Var: i = 0;
+                Do  ** Hello **
+                    print("Hello");
+                    i = i + 1;
+                While (i < 10) EndDo.
+            EndBody.
+            

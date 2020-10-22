@@ -1,0 +1,16 @@
+
+            Function: test
+            Body:
+                Do
+                    i = i + 1;
+                    While (j < 100) Do
+                        Do
+                            While (l < 100) Do
+                                l = l + 2;
+                            EndWhile.
+                        While (k < 100) EndDo.
+                        j = j + 3;
+                    EndWhile.
+                While () EndDo.
+            EndBody.
+            

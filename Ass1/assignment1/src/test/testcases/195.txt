@@ -1,0 +1,5 @@
+Var: a[3 + foo(2)] = a[b[2][3]] + 4;
+                                                 Function: boo
+                                                 Parameter: a
+                                                 Body:
+                                                 EndBody.

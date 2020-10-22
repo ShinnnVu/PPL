@@ -1,0 +1,8 @@
+
+            Function: test
+            Body:
+                For (i = 2, flag = c, 1) Do
+                    flag = True;
+                EndFor.
+            EndBody.
+            

@@ -1,0 +1,1 @@
+If,(,x,<,5,),Then,For,(,i,=,0,,,i,<,10,,,2,),Do,writeln,(,i,),;,EndFor,.,EndIf,.,<EOF>

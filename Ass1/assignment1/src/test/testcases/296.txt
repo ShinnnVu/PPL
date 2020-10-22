@@ -1,0 +1,11 @@
+
+                    Var: a,b,c,x,y,z;
+                    Function: main
+                        Body:
+                            a = { -1 };
+                            If True Then
+                            Var: x;
+                            Returnl
+                            EndIf.
+                        EndBody.
+                    

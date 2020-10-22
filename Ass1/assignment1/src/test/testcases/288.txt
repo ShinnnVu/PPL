@@ -1,0 +1,9 @@
+
+        Function: test
+        Parameter: n
+        Body:
+            If (n == 0) Then Return 0;
+            EndIf.
+            Return superman();
+        EndBody.
+        

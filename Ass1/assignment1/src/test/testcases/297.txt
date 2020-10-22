@@ -1,0 +1,10 @@
+
+                    Function: main
+                        Body:
+                            a = b;
+                            a = fyes();
+                            a = fyes(1,True);
+                            a = f[1];
+                            a = fyes()[1];
+                        EndBody.
+                    

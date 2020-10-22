@@ -1,0 +1,10 @@
+
+            ** Phao of N **
+            Function: lcd **LCD of n**
+            Parameter: n
+            Body:
+                While (n % i != 0) Do  ** Hello **
+                    i = i - 1;
+                EndWhile.
+            EndBody.
+            

@@ -1,0 +1,6 @@
+
+        Function: test
+        Body:
+            foo(2)-5;
+        EndBody.
+        

@@ -1,0 +1,19 @@
+
+            Function: test
+            Body:
+                Var: i = 20, a, b, c;
+                If i == 10 Then
+                    a = 1;
+                    b = 2;
+                    c = a + b;
+                ElseIf i == 15 Then
+                    a = 3;
+                    b = 4;
+                    c = b - a;
+                ElseIf i == 20 Then
+                    a = 2;
+                    b = 2;
+                    c = a*2 + b*3;
+                EndIf.
+            EndBody.
+            

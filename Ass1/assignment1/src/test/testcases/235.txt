@@ -1,0 +1,8 @@
+
+            Function: test____
+            Parameter: x[1],a[2]
+            Body:
+                z = y = x;
+                x = x -. 20.5;
+            EndBody.
+            

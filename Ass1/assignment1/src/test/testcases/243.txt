@@ -1,0 +1,14 @@
+
+            Function: test
+            Body:
+                Var: diemthi = 3;
+                If (diemthi == 0)  Then print("Hoc lai");
+                ElseIf(diemthi != 0) Then
+                    If (diemthi == 3) Then print("Hen");
+                    ElseIf (diemthi == 5) Then print("Hoc gioi");
+                    Else print("Adu vjp");
+                    EndIf.
+                Else print("Diem 13");
+                EndIf.
+            EndBody.
+            

@@ -1,0 +1,1 @@
+Var,:,abc,=,12,*.,2e5,-,0xEF12,,,st,=,@gmail\neqweqwe,,,\.,91.012e2,<EOF>

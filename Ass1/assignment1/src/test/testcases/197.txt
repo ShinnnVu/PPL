@@ -1,0 +1,1 @@
+For (i = 0, i< n, i+1) Do x= "Omeu wa mou shinderu" EndFor..

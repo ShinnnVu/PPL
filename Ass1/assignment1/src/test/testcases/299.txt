@@ -1,0 +1,11 @@
+
+                Function: reheapUp
+                Body:
+                If !node == 0 Then
+                    parent = (node - 1) \. 2 ;  ** Division **
+                    If heap[node] > heap[parent] Then
+                        swap(heap[parent], heap[node]);
+                        reheapUp(parent);
+                    EndIf.
+                EndIf.
+                EndBody.

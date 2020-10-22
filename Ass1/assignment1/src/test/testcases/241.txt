@@ -1,0 +1,9 @@
+
+            Function: test
+            Body:
+                If a>1 Then a = "a " ;
+                ElseIf   Then b = "b";
+                Else c ="c";
+                EndIf.
+            EndBody.
+            

@@ -1,0 +1,14 @@
+
+            Function: test
+            Body:
+                If (false == True) Then
+                    If (true == False) Then print("true = false");
+                    Else
+                        If writeLn("false = true") Then Continue;
+                        ElseIf i<1 Then a =1 ;
+                        EndIf.
+                    EndIf.
+                Else print("nope");
+                EndIf.
+            EndBody.
+            

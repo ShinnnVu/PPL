@@ -1,0 +1,8 @@
+
+            Function: test
+            Body:
+                Var: x;
+                If (1) Then x= x+3;
+                EndIf.
+            EndBody.
+            

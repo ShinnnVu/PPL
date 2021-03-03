@@ -1,0 +1,7 @@
+
+Function: test
+    Body:
+        a = test(test(test()));
+        a = foo(1, True, "", 1.);
+        a = test(test()+1,test({1,2}));
+    EndBody.

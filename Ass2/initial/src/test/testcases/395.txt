@@ -1,0 +1,7 @@
+
+Function: test
+    Body:
+        x = x * s [c];
+        Break;
+        Return x+1;
+    EndBody.

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(test)[],([][Assign(Id(x),UnaryOp(!,ArrayCell(Id(x),[Id(y)])))]))])

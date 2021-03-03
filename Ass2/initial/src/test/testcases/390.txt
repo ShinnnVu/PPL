@@ -1,0 +1,5 @@
+
+Function: test
+    Body:
+        a[1][2][3][4][foo()+abc* "str"] = a + b || c - d;
+    EndBody.

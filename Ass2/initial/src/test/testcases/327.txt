@@ -1,0 +1,16 @@
+
+            Function: test____
+            Parameter: x[1], a[2]
+            Body:
+                Var: x = 12345;
+                Var: y = 0;
+                Var: z = 12.e5;
+                Var: g = 22.;
+                Var: h = 12.0e5;
+                Var: t = 12e5;
+                Var: x = True;
+                Var: a = False;
+                Var: z = "This is a string \n \n \n \n \n '" ";
+                Var: k = {1,2} , m = {{"A","a"},"b"};
+            EndBody.
+            

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(test)[],([VarDecl(Id(flag),IntLiteral(0))][Dowhile([],[While(UnaryOp(!,Id(flag)),[],[While(UnaryOp(!,Id(flag)),[],[Dowhile([],[],Id(flag))])])],Id(flag))]))])

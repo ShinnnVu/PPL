@@ -1,0 +1,12 @@
+
+                Function: test
+                Body:
+                    foo(3+y(5+z(4)));
+                    If !foo Then
+                        Return False;
+                    EndIf.
+                    For (i = 0, i < 100, 2) Do
+                        writeln(i * test[1+2][foo(4)]);
+                    EndFor.
+                EndBody.
+            

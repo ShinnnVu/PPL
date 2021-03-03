@@ -1,0 +1,7 @@
+
+            Function: test____
+            Parameter: x[1], a[2]
+            Body:
+              Var: x_ = 5 , z = "   ";
+            EndBody.
+            

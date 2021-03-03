@@ -1,0 +1,14 @@
+
+Var: a, b;
+Var: c;
+
+Function: foo
+    Body:
+    EndBody.
+
+Function: foo2
+    Body:
+    EndBody.
+Function: foo3
+    Body:
+    EndBody.

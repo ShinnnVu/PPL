@@ -1,0 +1,10 @@
+
+        Function: test
+        Body:
+            foo (1+2+3+4,2345);
+        EndBody.
+        Function: foo
+        Parameter: a, b
+        Body:
+        EndBody.
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(test)[VarDecl(Id(n))],([][If(BinaryOp(==,Id(n),IntLiteral(0)),[],[Return(IntLiteral(0))])Else([],[]),Return(CallExpr(Id(superman),[]))]))])

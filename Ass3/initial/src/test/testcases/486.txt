@@ -1,0 +1,11 @@
+
+        Function: main 
+        Parameter: n
+        Body: 
+            Var:x;
+            While x>1 Do
+                If x==1 Then Return;
+                EndIf.
+            EndWhile.
+        EndBody.
+            

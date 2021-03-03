@@ -1,0 +1,13 @@
+
+                
+                Function: main
+                Body:
+                    Var:x;
+                    If x Then
+                        x=1;
+                    Else
+                        Var:y,z;
+                        y=x;
+                    EndIf.
+                EndBody.
+            

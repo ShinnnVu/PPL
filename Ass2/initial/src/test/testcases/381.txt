@@ -1,0 +1,5 @@
+
+Function: test
+    Body:
+        x = (x) + (x) + (x) + (x);
+    EndBody.

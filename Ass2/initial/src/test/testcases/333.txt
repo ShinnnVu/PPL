@@ -1,0 +1,8 @@
+
+            Function: test____
+            Parameter: x[1],a[2]
+            Body:
+                z = !foo(2) && ( a|| b);
+                y = z+a;
+            EndBody.
+            

@@ -1,0 +1,1 @@
+Type Cannot Be Inferred: While(Id(x),[VarDecl(Id(z))],[Assign(Id(y),IntLiteral(1))])

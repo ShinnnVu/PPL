@@ -1,0 +1,8 @@
+
+            Function: test
+            Body:
+                For (i = 0, i < 100, i+1) Do
+                    print("i");
+                EndFor.
+            EndBody.
+            

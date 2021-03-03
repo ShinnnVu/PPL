@@ -27,7 +27,7 @@ options {
 program: var_declare* func_declare* EOF;
 /*************************** var_declare ***************************/
 var_declare: VAR CL var_list SM;
-var_list: variable (ASSIGN initial_value)? (CM var_list)*;
+var_list: variable (ASSIGN initial_value)? (CM var_list)?;
 variable: (scalar | composite);
 scalar: ID;
 composite: ID dime+;
@@ -42,18 +42,17 @@ func_declare:
 	FUNCTION CL ID (PAR CL par_list)? BODY CL statement ENDBODY DOT;
 par_list: parameter (CM parameter)*;
 parameter: (scalar | composite);
-statement:
-	local_var_declare* (
-		assign_statement
-		| if_statement
-		| for_statement
-		| while_statement
-		| do_while_statement
-		| break_statement
-		| continue_statement
-		| call_statement
-		| return_statement
-	)*;
+statement: local_var_declare* ( stmt)*;
+stmt:
+	assign_statement
+	| if_statement
+	| for_statement
+	| while_statement
+	| do_while_statement
+	| break_statement
+	| continue_statement
+	| call_statement
+	| return_statement;
 local_var_declare: var_declare;
 stmt_list: statement;
 /** statement  **/
@@ -206,4 +205,4 @@ ILLEGAL_ESCAPE:
 	'"' STR_CHAR* ILLEGAL_CHAR {
     self.text = self.text[1:]
 };
-UNTERMINATED_COMMENT: '**' .*?;
+UNTERMINATED_COMMENT

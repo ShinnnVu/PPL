@@ -1,0 +1,8 @@
+
+Function: main
+    Body:
+        a = !(a + b);
+        Return a+b;
+        Return 1;
+        Return True;
+    EndBody.

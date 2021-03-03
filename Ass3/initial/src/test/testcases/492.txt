@@ -1,0 +1,7 @@
+
+                Function: main 
+                Parameter: a,b,c
+                Body: 
+                    a= (a==b)!= c +3;
+                EndBody.
+            

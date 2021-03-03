@@ -1,0 +1,21 @@
+
+                    Function: main
+                        Body:
+                            Var: x =5;
+                            If True Then  
+                                Do 
+                                    While True Do
+                                        For (i = 0, i<10 , 1) Do
+                                        EndFor.
+                                    EndWhile.
+                                While (True) 
+                                EndDo.
+                            EndIf.
+                            a = { 1, 2, 3, 4 };
+                            a = { 1.0, 2.0, 3.0, 4.0 };
+                            a = { True, False };
+                            a = { {1,2}, {3,4} };
+                            a = {{{{{1}}}}};
+                            a = {{{{{1}}}}, {1}, 1};
+                        EndBody.
+                    

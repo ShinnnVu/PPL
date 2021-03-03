@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(test)[VarDecl(Id(max))],([VarDecl(Id(n),IntLiteral(0)),VarDecl(Id(s),IntLiteral(0))][Dowhile([],[Assign(Id(n),BinaryOp(+,Id(n),IntLiteral(1))),Assign(Id(s),BinaryOp(+,Id(s),Id(n)))],BinaryOp(<,BinaryOp(+,BinaryOp(+,Id(s),Id(n)),IntLiteral(1)),Id(max))),CallStmt(Id(writeln),[Id(n)])]))])

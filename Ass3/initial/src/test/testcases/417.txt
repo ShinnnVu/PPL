@@ -1,0 +1,10 @@
+
+                
+                Function: main
+                Parameter: x,y,z,t,k
+                Body:
+                    y= x + y \ z * t;
+                    x= k % t;
+                    y= x == z;
+                EndBody.
+            

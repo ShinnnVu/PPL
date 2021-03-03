@@ -1,0 +1,10 @@
+
+            Function: test
+            Parameter: n
+            Body:
+                Var: flag = 0;
+                Do
+                While i<=1 EndDo.
+                print(i);
+            EndBody.
+            

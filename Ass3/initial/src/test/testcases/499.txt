@@ -1,0 +1,7 @@
+
+Function: main 
+Body:
+    Var: a=1,x; 
+    a=foo(x); 
+EndBody. 
+            

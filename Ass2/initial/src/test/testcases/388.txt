@@ -1,0 +1,17 @@
+
+        Function: test
+        Parameter: w
+        Body:
+            Var: x;
+            While (m <= 2) Do
+                While (n >= 1) Do
+                    While (o <= n) Do
+                        o = o - 1;
+                    EndWhile.
+                    x = True;
+                    n = n - 1;
+                EndWhile.
+                x = m * n * p * o;
+            EndWhile.
+        EndBody.
+        

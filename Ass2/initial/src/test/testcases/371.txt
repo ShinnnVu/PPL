@@ -1,0 +1,12 @@
+
+                Var: a, b[1], c[1][1], d = 1, e = 1e1, f = "Hello", g = True, i = {{1,2}};
+                Function: main
+                    Body:
+                        While a < 10 Do
+                            While b < 10 Do
+                                prod = prod * b;
+                            EndWhile.
+                        EndWhile.
+                        Return;
+                    EndBody.
+                

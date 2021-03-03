@@ -1,0 +1,9 @@
+
+                Var:x;
+                Function: main
+                Body:
+                    Var:x;
+                    Var:main;
+                    Var:x[5]={1,2,3,4,5};
+                EndBody.
+            

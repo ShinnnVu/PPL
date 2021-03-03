@@ -1,0 +1,11 @@
+
+            Function: main
+            Parameter: x,y
+            Body:
+                y=0.5;
+                For(x=1,x==1,x+1) Do
+                EndFor.
+                For(y=1,1==1,y +. 1.2) Do
+                EndFor.
+            EndBody.    
+            

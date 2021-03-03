@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(greatest_common_divisor)[VarDecl(Id(a)),VarDecl(Id(b))],([][If(BinaryOp(==,Id(a),Id(b)),[],[Return(Id(a))])Else([],[]),If(BinaryOp(>,Id(a),Id(b)),[],[Assign(Id(a),BinaryOp(%,Id(a),Id(b)))])Else([],[]),If(BinaryOp(==,Id(a),IntLiteral(0)),[],[Return(Id(b))])Else([],[]),Return(CallExpr(Id(greatest_common_divisor),[Id(b),Id(a)]))]))])

@@ -1,0 +1,14 @@
+
+            Function: test
+            Body:
+                Var: flag = 0;
+                Do
+                    While !flag Do
+                        While !flag Do
+                        Do
+                        While flag EndDo.
+                        EndWhile.
+                    EndWhile.
+                While flag EndDo.
+            EndBody.
+            

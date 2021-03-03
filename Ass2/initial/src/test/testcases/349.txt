@@ -1,0 +1,10 @@
+
+            Function: test
+            Parameter: t
+            Body:
+                While t < 10 Do
+                    While t<5 Do
+                    EndWhile.
+                EndWhile.
+            EndBody.
+            

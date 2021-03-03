@@ -1,0 +1,11 @@
+
+            Function: test
+            Body:
+                Var: x=1;
+                While (x<10) Do
+                    Var: x=2;
+                    While (x<20) Do
+                    EndWhile.
+                EndWhile.
+            EndBody.
+            

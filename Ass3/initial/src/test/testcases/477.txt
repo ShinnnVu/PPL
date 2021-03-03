@@ -1,0 +1,12 @@
+
+                Function: main
+                Parameter: x, a, b, c
+                Body:
+                    If(x == ((False||True) && (a > b + c))) Then
+                        a = b - c;
+                    Else
+                        a = b + c;
+                        x = True;
+                    EndIf.
+                EndBody.
+            

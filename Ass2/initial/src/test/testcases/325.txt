@@ -1,0 +1,7 @@
+
+            Function: foo
+            Parameter: a[10], b, c, d
+            Body:
+                Var: i = {12.,{2,{{2.e5},"hi"},4.}};
+            EndBody.
+            

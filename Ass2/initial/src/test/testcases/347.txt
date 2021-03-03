@@ -1,0 +1,9 @@
+
+            Function: test
+            Body:
+                Var: a = 2;
+                For (i = 10 - foo(2), a < 100, a + 1) Do
+                    i = i + 1;
+                EndFor.
+            EndBody.
+            

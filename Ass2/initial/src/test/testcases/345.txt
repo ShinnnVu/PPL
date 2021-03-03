@@ -1,0 +1,15 @@
+
+            Function: test
+            Body:
+                For (i = 0, i < 10, 1) Do
+                    For (j = 0, j < 10, 1) Do
+                        For (k = 0, k<10 , 1) Do
+                        arr[i][j] = 0;
+                        If (i<0) Then Continue;
+                        EndIf.
+                        Break;
+                        EndFor.
+                    EndFor.
+                EndFor.
+            EndBody.
+            

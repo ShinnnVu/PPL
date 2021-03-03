@@ -1,0 +1,12 @@
+
+Function: test
+    Body:
+        a = a[1] * b + 1.05 % d;
+        If 1 Then
+        ElseIf True Then
+        ElseIf False Then
+        ElseIf (1+1) Then
+        Else 
+            x = 2;
+        EndIf.
+    EndBody.

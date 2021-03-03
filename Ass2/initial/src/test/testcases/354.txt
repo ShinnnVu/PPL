@@ -1,0 +1,17 @@
+
+            Function: sNum **square number**
+            Parameter: n
+            Body:
+                Var: i = 0;
+                While (i*i <= n) Do
+                    If (i*i == n) Then
+                        Return;
+                        Continue;
+                        Break;
+                        While 5 Do
+                            Break;
+                        EndWhile.
+                    EndIf.
+                EndWhile.
+            EndBody.
+            

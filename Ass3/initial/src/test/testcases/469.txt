@@ -1,0 +1,7 @@
+
+                Var: a[3]={"Mot","2","Three"};
+                Function: main
+                Body:
+                    a[1] = a[1] + a[2];
+                EndBody.
+            

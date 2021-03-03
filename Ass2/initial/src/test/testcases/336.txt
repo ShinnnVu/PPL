@@ -1,0 +1,11 @@
+
+            Function: test
+            Body:
+                If i<1 Then i =1;
+                ElseIf i<2 Then i=2;
+                ElseIf i<3 Then i=3;
+                ElseIf i<4 Then i=4;
+                Else i=5;
+                EndIf.
+            EndBody.
+            

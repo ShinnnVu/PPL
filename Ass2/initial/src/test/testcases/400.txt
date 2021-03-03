@@ -1,0 +1,9 @@
+
+Function: main
+    Body:
+        a = !a[1] > b || c + foo() * -e[2][abcd] % foo(1)[1] \ True;
+        Do
+            a = a +1;
+        While 1
+        EndDo.
+    EndBody.

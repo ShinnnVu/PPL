@@ -1,0 +1,15 @@
+
+Function: main 
+            Parameter: x[5]
+            Body:
+                Var: y[5]; 
+                x = {1,2,3,4,5};
+                main(y);
+                foo(1.2);
+            EndBody.
+        Function: foo
+            Parameter: x
+            Body:
+                x = 2;
+            EndBody.
+            

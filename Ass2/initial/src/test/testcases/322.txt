@@ -1,0 +1,7 @@
+
+            Function: test
+            Body:
+                Var: arr[2][3] = {{"Hi","Hello"},"Bai","Bye",{}};
+                a= 10e2;
+            EndBody.
+            

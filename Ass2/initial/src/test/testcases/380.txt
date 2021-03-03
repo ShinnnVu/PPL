@@ -1,0 +1,16 @@
+
+        Function: greatest_common_divisor
+        Parameter: a, b
+        Body:
+                If (a == b) Then
+                    Return a;
+                EndIf.
+	            If (a > b) Then
+		            a = a % b;
+                EndIf.
+	            If (a == 0) Then
+                    Return b;
+                EndIf.
+	            Return greatest_common_divisor(b, a);
+        EndBody.
+        

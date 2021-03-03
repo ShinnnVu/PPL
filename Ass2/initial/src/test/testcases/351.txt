@@ -1,0 +1,13 @@
+
+            Function: test
+            Body:
+                Var: x= False;
+                While (!x && (1+2)*3\5 || True || False || !x) Do
+                   Var: x = False;
+                   If (i<1) Then
+                   EndIf.
+                   While (i<5) Do
+                   EndWhile.
+                EndWhile.
+            EndBody.
+            

@@ -1,0 +1,9 @@
+
+            Function: test
+            Body:
+                For (i = 0.5, i <= 1000, 1) Do
+                    If i%2 == 0 Then writeln(i\2);
+                    EndIf.
+                EndFor.
+            EndBody.
+            

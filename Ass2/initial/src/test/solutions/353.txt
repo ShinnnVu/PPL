@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(lcd)[VarDecl(Id(n))],([][While(BinaryOp(!=,BinaryOp(%,Id(n),Id(i)),IntLiteral(0)),[],[Assign(Id(i),BinaryOp(-,Id(i),IntLiteral(1)))])]))])

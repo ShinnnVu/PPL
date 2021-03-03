@@ -1,0 +1,31 @@
+
+                Var: m, n[10];
+                Function: test___
+                Parameter: n, a[1][2][3]
+                Body:
+                    Var: a[12][12] = {1,2};
+                    If n == 0 Then
+                        a[foo(2)*4+1] = 1;
+                    Else
+                        Return n * fact (n - 1);
+                    EndIf.
+                EndBody.
+                Function: main
+                Body:
+                ** This is a single-line comment. **
+                ** This is a
+                * multi-line
+                * comment.
+                **
+                    Var: r = 10., v;
+                    v = (4. \. 3.) *. 3.14 *. r *. r *. r;
+                    If True Then
+                        a = int_of_string (read ());
+                        b = float_of_int (a) +. 2.0;
+                    EndIf.
+                    For (i = 0, i < 10, 2) Do
+                        writeln(i);
+                    EndFor.
+                    fact (x);
+                EndBody.
+            

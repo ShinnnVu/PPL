@@ -1,0 +1,13 @@
+
+        Function: test
+        Body:
+            Var: arr[100][100][100];
+            For (i = 0, i < 100, 1) Do  
+                For (j = 0, j < 100, 1) Do
+                    For (k =0,k < 100,1) Do
+                    arr[i][j] = 0;
+                    EndFor.
+                EndFor.
+            EndFor.
+        EndBody.
+        

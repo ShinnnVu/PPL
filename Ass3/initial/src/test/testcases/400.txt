@@ -1,0 +1,11 @@
+ 
+                    Function: main
+                    Parameter: x1
+                    Body:
+                    EndBody.
+                    Function: yes
+                    Body:
+                    5 = main(5);
+                    Return main(12);
+                    EndBody.
+                    

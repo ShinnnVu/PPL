@@ -1,0 +1,6 @@
+
+Function: test
+    Body:
+        x = x[1][2*x];
+        a = a[a][-1];
+    EndBody.

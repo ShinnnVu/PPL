@@ -1,0 +1,11 @@
+
+Function: main
+    Body:
+        a = 1+-1;
+        zed = "Weak";
+        If True Then
+        zed = "Strong";
+        Else
+        zed = "Weak";
+        EndIf.
+    EndBody.
